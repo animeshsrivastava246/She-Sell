@@ -74,7 +74,7 @@ const NavBar = () => {
 					className="border-[1px] border-she_sell-color4 p-1 cursor-pointer"
 					onClick={(e) => {
 						e.preventDefault();
-						window.open("http://localhost:3000");
+						window.open("https://she-sell-seller.vercel.app/");
 					}}
 				>
 					Sell
